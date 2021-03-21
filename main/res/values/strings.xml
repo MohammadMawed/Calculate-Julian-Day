@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Calculate Julian Day</string>
+    <string name="julian_day">Julian Day</string>
+</resources>
